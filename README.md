@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barbaracarnauba
-- 👀 I’m interested in science, technology, data science and machine learning
-- 🌱 I’m currently learning python programming language, data science and machine learning models
+- 👀 I’m interested in research, science, technology, data science and machine learning
+- 🌱 I’m currently a PhD student in mechanical engineering and I am also learning python programming language, data science and machine learning models
 - 📫 How to reach me https://www.linkedin.com/in/barbaracarnauba/
 
 <!---
